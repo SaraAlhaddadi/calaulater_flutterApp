@@ -1,10 +1,28 @@
 # calaulater
 
-A new Flutter project.
+simple flutter calculator with to themes and without using math package
 
-## Getting Started
+## Screenshot
+### Black theme
+the defult one
+[!black theme](./Screenshot_1617188324.png)
 
-This project is a starting point for a Flutter application.
+### Orange theme
+you can change to it by change home widget to OCalApp like this
+```
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Material App',
+      home: OCalApp(),//OCalApp() to use orange one
+    );
+  }
+}
+```
+[!orange theme](./Screenshot_1617188399.png)
+
+## Resources to learn
 
 A few resources to get you started if this is your first Flutter project:
 
