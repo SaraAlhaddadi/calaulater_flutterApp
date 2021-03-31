@@ -1,11 +1,14 @@
-# calaulater
+# Calaulater Flutter app
 
 simple flutter calculator with to themes and without using math package
 
 ## Screenshot
 ### Black theme
 the defult one
-[!black theme](https://github.com/shvm-k/calaulater_flutterApp/edit/master/Screenshot_1617188324.png?raw=true)
+[!black theme](https://github.com/shvm-k/calaulater_flutterApp/master/Screenshot_1617188324.png)
+
+![black theme](https://user-images.githubusercontent.com/41121235/113147049-10592180-9239-11eb-9664-aaf6122addae.png)
+
 
 ### Orange theme
 you can change to it by change home widget to OCalApp like this
@@ -22,6 +25,9 @@ class MyApp extends StatelessWidget {
 ```
 [!orange theme](https://github.com/shvm-k/calaulater_flutterApp/edit/master/Screenshot_1617188399.png?raw=true)
 
+![Screenshot_1617188399](https://user-images.githubusercontent.com/41121235/113147363-61691580-9239-11eb-926d-1e23e3ad453e.png)
+
+
 ## Resources to learn
 
 A few resources to get you started if this is your first Flutter project:
@@ -32,3 +38,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
