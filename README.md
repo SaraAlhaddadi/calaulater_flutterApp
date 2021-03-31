@@ -5,7 +5,7 @@ simple flutter calculator with to themes and without using math package
 ## Screenshot
 ### Black theme
 the defult one
-[!black theme](./Screenshot_1617188324.png)
+[!black theme](Screenshot_1617188324.png)
 
 ### Orange theme
 you can change to it by change home widget to OCalApp like this
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
-[!orange theme](./Screenshot_1617188399.png)
+[!orange theme](Screenshot_1617188399.png)
 
 ## Resources to learn
 
