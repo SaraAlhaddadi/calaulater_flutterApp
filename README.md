@@ -1,18 +1,22 @@
-# Calaulater Flutter app
+# Calaulater Flutter App :calculator:
 
-simple flutter calculator with to themes and without using math package
+![Screenshot](Screenshot_1617188324.png)
 
-## Screenshot
-### Black theme
-the defult one
-[!black theme](https://github.com/shvm-k/calaulater_flutterApp/master/Screenshot_1617188324.png)
+## Description :memo:
 
-![black theme](https://user-images.githubusercontent.com/41121235/113147049-10592180-9239-11eb-9664-aaf6122addae.png)
+Welcome to the Calculator Flutter App! This is a simple calculator app built using Flutter. It features two themes: black and orange. You can switch between the themes by modifying the home widget in the code.
 
+### Black Theme:
+   the default one
 
-### Orange theme
-you can change to it by change home widget to OCalApp like this
-```
+  ![Black Theme](Screenshot_1617188324.png)
+  
+
+### Orange Theme:
+  ![Orange Theme](Screenshot_1617188399.png)
+  
+  you can change it by changing home widget to OCalApp like this
+```dart
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -23,19 +27,40 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
-[!orange theme](https://github.com/shvm-k/calaulater_flutterApp/edit/master/Screenshot_1617188399.png?raw=true)
 
-![Screenshot_1617188399](https://user-images.githubusercontent.com/41121235/113147363-61691580-9239-11eb-926d-1e23e3ad453e.png)
+## How to Use :rocket:
 
+To get started with the Calaulater Flutter App, follow these steps:
 
-## Resources to learn
+1. Clone the repository to your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+2. Open the project in your preferred Flutter development environment.
+
+3. Run the app on an emulator or physical device.
+
+4. Explore the calculator functionality and switch between the available themes.
+
+## Resources :books:
+
+If this is your first Flutter project or you need help getting started, check out these resources:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more detailed information about Flutter development, refer to the [online documentation](https://flutter.dev/docs) which includes tutorials, samples, guidance, and the full API reference.
 
+## License :scroll:
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal and commercial purposes.
+
+## Support :sparkles:
+
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository. Your feedback is valuable in making this app even better!
+
+## Stay Connected :iphone:
+
+Connect with me on GitHub and stay up-to-date with my latest projects and repositories.
+
+- [GitHub](https://github.com/SaraAlhaddadi)
+
+Thank you for checking out the Calaulater Flutter App! Happy calculating! 💻:
